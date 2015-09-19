@@ -1,0 +1,14 @@
+{
+  "name": "sample-express-app",
+  "version": "1.0.0",
+  "description": "a sample \"hello world\" express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chris ludden",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
